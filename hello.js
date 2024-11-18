@@ -1,2 +1,2 @@
-let x = 10;
-console.log(x);
+let r = 10;
+console.log(r);
